@@ -21,5 +21,9 @@ It might not be "production-ready," but it represents my commitment to learning 
 
 ## 📦 Getting Started
 To run this project locally, ensure you have Rust installed and run:
-```bash
+```
 cargo run
+``` 
+
+## ⚖️ License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
