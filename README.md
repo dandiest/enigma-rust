@@ -2,12 +2,12 @@
 
 A CLI-based interactive security system built with Rust to master control flow and error handling.
 
----
-### 🛡️ Apprentice Disclaimer
+
+## 🛡️ Apprentice Disclaimer 
 I am young developer currently on a journey to master **Rust**. This project is part of my daily learning routine. 
 It might not be "production-ready," but it represents my commitment to learning memory safety, low-level logic, and professional coding standards. 
 **Feedback is always welcome!**
----
+
 
 ## 🚀 Features
 - **Robust Error Handling:** The program handles invalid inputs (like strings instead of numbers) without crashing, using the `match` pattern.
